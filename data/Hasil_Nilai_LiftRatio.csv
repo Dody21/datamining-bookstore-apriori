@@ -1,0 +1,11 @@
+Itemset,Confidence,Support_Alat_Tulis,Lift_Ratio
+"Majalah Seni, Buku Anak-Anak, Alat Tulis",0.805,0.586,1.3737201365187715
+"Majalah Fashion, Buku Anak-Anak, Alat Tulis",0.829,0.586,1.4146757679180888
+"Majalah Berita, Buku Anak-Anak, Alat Tulis",0.835,0.586,1.424914675767918
+"Buku Anak-Anak, Novel Fiksi Ilmiah, Alat Tulis",0.84,0.586,1.4334470989761092
+"Aksesoris Buku, Buku Anak-Anak, Alat Tulis",0.844,0.586,1.4402730375426622
+"Buku Biografi, Buku Anak-Anak, Alat Tulis",0.864,0.586,1.4744027303754268
+"Novel Romansa, Buku Anak-Anak, Alat Tulis",0.871,0.586,1.4863481228668942
+"Buku Anak-Anak, Buku Fiksi, Alat Tulis",0.878,0.586,1.4982935153583619
+"Buku Anak-Anak, Novel Misteri, Alat Tulis",0.881,0.586,1.5034129692832765
+"Buku Anak-Anak, Buku Sejarah, Alat Tulis",0.933,0.586,1.5921501706484644

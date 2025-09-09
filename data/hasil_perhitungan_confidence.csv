@@ -1,0 +1,163 @@
+Itemset,Frekuensi_3itemset,Frekuensi_2itemset,Confidence (%)
+"Alat Tulis, Aksesoris Buku, Buku Anak-Anak",92,139,66.19
+"Alat Tulis, Buku Anak-Anak, Aksesoris Buku",92,162,56.79
+"Aksesoris Buku, Buku Anak-Anak, Alat Tulis",92,109,84.4
+"Alat Tulis, Majalah Berita, Buku Anak-Anak",71,119,59.66
+"Alat Tulis, Buku Anak-Anak, Majalah Berita",71,162,43.83
+"Majalah Berita, Buku Anak-Anak, Alat Tulis",71,85,83.53
+"Alat Tulis, Buku Anak-Anak, Buku Sejarah",70,162,43.21
+"Alat Tulis, Buku Sejarah, Buku Anak-Anak",70,125,56.0
+"Buku Anak-Anak, Buku Sejarah, Alat Tulis",70,75,93.33
+"Alat Tulis, Buku Biografi, Buku Anak-Anak",70,117,59.83
+"Alat Tulis, Buku Anak-Anak, Buku Biografi",70,162,43.21
+"Buku Biografi, Buku Anak-Anak, Alat Tulis",70,81,86.42
+"Alat Tulis, Aksesoris Buku, Majalah Seni",68,139,48.92
+"Alat Tulis, Majalah Seni, Aksesoris Buku",68,129,52.71
+"Aksesoris Buku, Majalah Seni, Alat Tulis",68,103,66.02
+"Alat Tulis, Aksesoris Buku, Buku Fiksi",68,139,48.92
+"Alat Tulis, Buku Fiksi, Aksesoris Buku",68,113,60.18
+"Aksesoris Buku, Buku Fiksi, Alat Tulis",68,99,68.69
+"Alat Tulis, Novel Romansa, Buku Anak-Anak",68,120,56.67
+"Alat Tulis, Buku Anak-Anak, Novel Romansa",68,162,41.98
+"Novel Romansa, Buku Anak-Anak, Alat Tulis",68,78,87.18
+"Alat Tulis, Aksesoris Buku, Novel Romansa",68,139,48.92
+"Alat Tulis, Novel Romansa, Aksesoris Buku",68,120,56.67
+"Aksesoris Buku, Novel Romansa, Alat Tulis",68,110,61.82
+"Alat Tulis, Buku Anak-Anak, Novel Misteri",67,162,41.36
+"Alat Tulis, Novel Misteri, Buku Anak-Anak",67,115,58.26
+"Buku Anak-Anak, Novel Misteri, Alat Tulis",67,76,88.16
+"Alat Tulis, Majalah Seni, Buku Anak-Anak",66,129,51.16
+"Alat Tulis, Buku Anak-Anak, Majalah Seni",66,162,40.74
+"Majalah Seni, Buku Anak-Anak, Alat Tulis",66,82,80.49
+"Alat Tulis, Buku Anak-Anak, Buku Fiksi",65,162,40.12
+"Alat Tulis, Buku Fiksi, Buku Anak-Anak",65,113,57.52
+"Buku Anak-Anak, Buku Fiksi, Alat Tulis",65,74,87.84
+"Alat Tulis, Aksesoris Buku, Buku Biografi",64,139,46.04
+"Alat Tulis, Buku Biografi, Aksesoris Buku",64,117,54.7
+"Aksesoris Buku, Buku Biografi, Alat Tulis",64,101,63.37
+"Alat Tulis, Majalah Fashion, Buku Anak-Anak",63,118,53.39
+"Alat Tulis, Buku Anak-Anak, Majalah Fashion",63,162,38.89
+"Majalah Fashion, Buku Anak-Anak, Alat Tulis",63,76,82.89
+"Alat Tulis, Buku Anak-Anak, Novel Fiksi Ilmiah",63,162,38.89
+"Alat Tulis, Novel Fiksi Ilmiah, Buku Anak-Anak",63,108,58.33
+"Buku Anak-Anak, Novel Fiksi Ilmiah, Alat Tulis",63,75,84.0
+"Alat Tulis, Majalah Seni, Majalah Fashion",63,129,48.84
+"Alat Tulis, Majalah Fashion, Majalah Seni",63,118,53.39
+"Majalah Seni, Majalah Fashion, Alat Tulis",63,110,57.27
+"Alat Tulis, Aksesoris Buku, Majalah Fashion",60,139,43.17
+"Alat Tulis, Majalah Fashion, Aksesoris Buku",60,118,50.85
+"Aksesoris Buku, Majalah Fashion, Alat Tulis",60,97,61.86
+"Alat Tulis, Majalah Seni, Buku Sejarah",60,129,46.51
+"Alat Tulis, Buku Sejarah, Majalah Seni",60,125,48.0
+"Majalah Seni, Buku Sejarah, Alat Tulis",60,90,66.67
+"Alat Tulis, Aksesoris Buku, Novel Misteri",59,139,42.45
+"Alat Tulis, Novel Misteri, Aksesoris Buku",59,115,51.3
+"Aksesoris Buku, Novel Misteri, Alat Tulis",59,97,60.82
+"Alat Tulis, Novel Romansa, Novel Misteri",58,120,48.33
+"Alat Tulis, Novel Misteri, Novel Romansa",58,115,50.43
+"Novel Romansa, Novel Misteri, Alat Tulis",58,94,61.7
+"Alat Tulis, Majalah Seni, Buku Biografi",58,129,44.96
+"Alat Tulis, Buku Biografi, Majalah Seni",58,117,49.57
+"Majalah Seni, Buku Biografi, Alat Tulis",58,99,58.59
+"Alat Tulis, Majalah Seni, Novel Misteri",57,129,44.19
+"Alat Tulis, Novel Misteri, Majalah Seni",57,115,49.57
+"Majalah Seni, Novel Misteri, Alat Tulis",57,90,63.33
+"Aksesoris Buku, Majalah Seni, Majalah Fashion",57,103,55.34
+"Aksesoris Buku, Majalah Fashion, Majalah Seni",57,97,58.76
+"Majalah Seni, Majalah Fashion, Aksesoris Buku",57,110,51.82
+"Alat Tulis, Buku Biografi, Novel Romansa",56,117,47.86
+"Alat Tulis, Novel Romansa, Buku Biografi",56,120,46.67
+"Buku Biografi, Novel Romansa, Alat Tulis",56,92,60.87
+"Alat Tulis, Majalah Fashion, Majalah Berita",56,118,47.46
+"Alat Tulis, Majalah Berita, Majalah Fashion",56,119,47.06
+"Majalah Fashion, Majalah Berita, Alat Tulis",56,93,60.22
+"Alat Tulis, Aksesoris Buku, Buku Sejarah",56,139,40.29
+"Alat Tulis, Buku Sejarah, Aksesoris Buku",56,125,44.8
+"Aksesoris Buku, Buku Sejarah, Alat Tulis",56,83,67.47
+"Alat Tulis, Majalah Berita, Buku Sejarah",55,119,46.22
+"Alat Tulis, Buku Sejarah, Majalah Berita",55,125,44.0
+"Majalah Berita, Buku Sejarah, Alat Tulis",55,84,65.48
+"Alat Tulis, Majalah Fashion, Novel Fiksi Ilmiah",55,118,46.61
+"Alat Tulis, Novel Fiksi Ilmiah, Majalah Fashion",55,108,50.93
+"Majalah Fashion, Novel Fiksi Ilmiah, Alat Tulis",55,86,63.95
+"Alat Tulis, Novel Romansa, Buku Fiksi",55,120,45.83
+"Alat Tulis, Buku Fiksi, Novel Romansa",55,113,48.67
+"Novel Romansa, Buku Fiksi, Alat Tulis",55,87,63.22
+"Alat Tulis, Majalah Seni, Majalah Berita",55,129,42.64
+"Alat Tulis, Majalah Berita, Majalah Seni",55,119,46.22
+"Majalah Seni, Majalah Berita, Alat Tulis",55,91,60.44
+"Alat Tulis, Majalah Seni, Novel Romansa",55,129,42.64
+"Alat Tulis, Novel Romansa, Majalah Seni",55,120,45.83
+"Majalah Seni, Novel Romansa, Alat Tulis",55,93,59.14
+"Alat Tulis, Aksesoris Buku, Majalah Berita",54,139,38.85
+"Alat Tulis, Majalah Berita, Aksesoris Buku",54,119,45.38
+"Aksesoris Buku, Majalah Berita, Alat Tulis",54,89,60.67
+"Alat Tulis, Majalah Berita, Buku Fiksi",54,119,45.38
+"Alat Tulis, Buku Fiksi, Majalah Berita",54,113,47.79
+"Majalah Berita, Buku Fiksi, Alat Tulis",54,87,62.07
+"Alat Tulis, Buku Biografi, Novel Fiksi Ilmiah",53,117,45.3
+"Alat Tulis, Novel Fiksi Ilmiah, Buku Biografi",53,108,49.07
+"Buku Biografi, Novel Fiksi Ilmiah, Alat Tulis",53,88,60.23
+"Alat Tulis, Novel Romansa, Buku Sejarah",53,120,44.17
+"Alat Tulis, Buku Sejarah, Novel Romansa",53,125,42.4
+"Novel Romansa, Buku Sejarah, Alat Tulis",53,85,62.35
+"Alat Tulis, Aksesoris Buku, Novel Fiksi Ilmiah",52,139,37.41
+"Alat Tulis, Novel Fiksi Ilmiah, Aksesoris Buku",52,108,48.15
+"Aksesoris Buku, Novel Fiksi Ilmiah, Alat Tulis",52,89,58.43
+"Alat Tulis, Majalah Fashion, Novel Misteri",52,118,44.07
+"Alat Tulis, Novel Misteri, Majalah Fashion",52,115,45.22
+"Majalah Fashion, Novel Misteri, Alat Tulis",52,88,59.09
+"Alat Tulis, Buku Biografi, Novel Misteri",52,117,44.44
+"Alat Tulis, Novel Misteri, Buku Biografi",52,115,45.22
+"Buku Biografi, Novel Misteri, Alat Tulis",52,93,55.91
+"Alat Tulis, Novel Misteri, Buku Fiksi",52,115,45.22
+"Alat Tulis, Buku Fiksi, Novel Misteri",52,113,46.02
+"Novel Misteri, Buku Fiksi, Alat Tulis",52,86,60.47
+"Alat Tulis, Majalah Berita, Novel Fiksi Ilmiah",52,119,43.7
+"Alat Tulis, Novel Fiksi Ilmiah, Majalah Berita",52,108,48.15
+"Majalah Berita, Novel Fiksi Ilmiah, Alat Tulis",52,86,60.47
+"Alat Tulis, Novel Romansa, Majalah Berita",51,120,42.5
+"Alat Tulis, Majalah Berita, Novel Romansa",51,119,42.86
+"Novel Romansa, Majalah Berita, Alat Tulis",51,86,59.3
+"Aksesoris Buku, Majalah Seni, Buku Anak-Anak",51,103,49.51
+"Aksesoris Buku, Buku Anak-Anak, Majalah Seni",51,109,46.79
+"Majalah Seni, Buku Anak-Anak, Aksesoris Buku",51,82,62.2
+"Aksesoris Buku, Majalah Seni, Novel Romansa",51,103,49.51
+"Aksesoris Buku, Novel Romansa, Majalah Seni",51,110,46.36
+"Majalah Seni, Novel Romansa, Aksesoris Buku",51,93,54.84
+"Majalah Seni, Buku Biografi, Majalah Fashion",51,99,51.52
+"Majalah Seni, Majalah Fashion, Buku Biografi",51,110,46.36
+"Buku Biografi, Majalah Fashion, Majalah Seni",51,91,56.04
+"Alat Tulis, Majalah Seni, Novel Fiksi Ilmiah",51,129,39.53
+"Alat Tulis, Novel Fiksi Ilmiah, Majalah Seni",51,108,47.22
+"Majalah Seni, Novel Fiksi Ilmiah, Alat Tulis",51,80,63.75
+"Alat Tulis, Buku Biografi, Majalah Fashion",51,117,43.59
+"Alat Tulis, Majalah Fashion, Buku Biografi",51,118,43.22
+"Buku Biografi, Majalah Fashion, Alat Tulis",51,91,56.04
+"Aksesoris Buku, Majalah Seni, Buku Biografi",50,103,48.54
+"Aksesoris Buku, Buku Biografi, Majalah Seni",50,101,49.5
+"Majalah Seni, Buku Biografi, Aksesoris Buku",50,99,50.51
+"Aksesoris Buku, Buku Biografi, Buku Anak-Anak",50,101,49.5
+"Aksesoris Buku, Buku Anak-Anak, Buku Biografi",50,109,45.87
+"Buku Biografi, Buku Anak-Anak, Aksesoris Buku",50,81,61.73
+"Aksesoris Buku, Buku Anak-Anak, Buku Fiksi",50,109,45.87
+"Aksesoris Buku, Buku Fiksi, Buku Anak-Anak",50,99,50.51
+"Buku Anak-Anak, Buku Fiksi, Aksesoris Buku",50,74,67.57
+"Alat Tulis, Buku Sejarah, Buku Fiksi",49,125,39.2
+"Alat Tulis, Buku Fiksi, Buku Sejarah",49,113,43.36
+"Buku Sejarah, Buku Fiksi, Alat Tulis",49,76,64.47
+"Alat Tulis, Buku Biografi, Buku Sejarah",49,117,41.88
+"Alat Tulis, Buku Sejarah, Buku Biografi",49,125,39.2
+"Buku Biografi, Buku Sejarah, Alat Tulis",49,78,62.82
+"Alat Tulis, Buku Biografi, Buku Fiksi",49,117,41.88
+"Alat Tulis, Buku Fiksi, Buku Biografi",49,113,43.36
+"Buku Biografi, Buku Fiksi, Alat Tulis",49,91,53.85
+"Alat Tulis, Novel Romansa, Novel Fiksi Ilmiah",49,120,40.83
+"Alat Tulis, Novel Fiksi Ilmiah, Novel Romansa",49,108,45.37
+"Novel Romansa, Novel Fiksi Ilmiah, Alat Tulis",49,80,61.25
+"Aksesoris Buku, Novel Romansa, Buku Fiksi",49,110,44.55
+"Aksesoris Buku, Buku Fiksi, Novel Romansa",49,99,49.49
+"Novel Romansa, Buku Fiksi, Aksesoris Buku",49,87,56.32
+"Alat Tulis, Majalah Seni, Buku Fiksi",49,129,37.98
+"Alat Tulis, Buku Fiksi, Majalah Seni",49,113,43.36
+"Majalah Seni, Buku Fiksi, Alat Tulis",49,80,61.25

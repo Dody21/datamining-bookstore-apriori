@@ -1,0 +1,67 @@
+Itemset,Frekuensi,Persentase (%)
+"Alat Tulis, Aksesoris Buku",139,28.9
+"Alat Tulis, Majalah Seni",129,26.82
+"Alat Tulis, Buku Biografi",117,24.32
+"Alat Tulis, Novel Romansa",120,24.95
+"Alat Tulis, Majalah Fashion",118,24.53
+"Alat Tulis, Majalah Berita",119,24.74
+"Alat Tulis, Buku Anak-Anak",162,33.68
+"Alat Tulis, Novel Misteri",115,23.91
+"Alat Tulis, Buku Sejarah",125,25.99
+"Alat Tulis, Buku Fiksi",113,23.49
+"Alat Tulis, Novel Fiksi Ilmiah",108,22.45
+"Aksesoris Buku, Majalah Seni",103,21.41
+"Aksesoris Buku, Buku Biografi",101,21.0
+"Aksesoris Buku, Novel Romansa",110,22.87
+"Aksesoris Buku, Majalah Fashion",97,20.17
+"Aksesoris Buku, Majalah Berita",89,18.5
+"Aksesoris Buku, Buku Anak-Anak",109,22.66
+"Aksesoris Buku, Novel Misteri",97,20.17
+"Aksesoris Buku, Buku Sejarah",83,17.26
+"Aksesoris Buku, Buku Fiksi",99,20.58
+"Aksesoris Buku, Novel Fiksi Ilmiah",89,18.5
+"Majalah Seni, Buku Biografi",99,20.58
+"Majalah Seni, Novel Romansa",93,19.33
+"Majalah Seni, Majalah Fashion",110,22.87
+"Majalah Seni, Majalah Berita",91,18.92
+"Majalah Seni, Buku Anak-Anak",82,17.05
+"Majalah Seni, Novel Misteri",90,18.71
+"Majalah Seni, Buku Sejarah",90,18.71
+"Majalah Seni, Buku Fiksi",80,16.63
+"Majalah Seni, Novel Fiksi Ilmiah",80,16.63
+"Buku Biografi, Novel Romansa",92,19.13
+"Buku Biografi, Majalah Fashion",91,18.92
+"Buku Biografi, Majalah Berita",83,17.26
+"Buku Biografi, Buku Anak-Anak",81,16.84
+"Buku Biografi, Novel Misteri",93,19.33
+"Buku Biografi, Buku Sejarah",78,16.22
+"Buku Biografi, Buku Fiksi",91,18.92
+"Buku Biografi, Novel Fiksi Ilmiah",88,18.3
+"Novel Romansa, Majalah Fashion",83,17.26
+"Novel Romansa, Majalah Berita",86,17.88
+"Novel Romansa, Buku Anak-Anak",78,16.22
+"Novel Romansa, Novel Misteri",94,19.54
+"Novel Romansa, Buku Sejarah",85,17.67
+"Novel Romansa, Buku Fiksi",87,18.09
+"Novel Romansa, Novel Fiksi Ilmiah",80,16.63
+"Majalah Fashion, Majalah Berita",93,19.33
+"Majalah Fashion, Buku Anak-Anak",76,15.8
+"Majalah Fashion, Novel Misteri",88,18.3
+"Majalah Fashion, Buku Sejarah",79,16.42
+"Majalah Fashion, Buku Fiksi",77,16.01
+"Majalah Fashion, Novel Fiksi Ilmiah",86,17.88
+"Majalah Berita, Buku Anak-Anak",85,17.67
+"Majalah Berita, Novel Misteri",88,18.3
+"Majalah Berita, Buku Sejarah",84,17.46
+"Majalah Berita, Buku Fiksi",87,18.09
+"Majalah Berita, Novel Fiksi Ilmiah",86,17.88
+"Buku Anak-Anak, Novel Misteri",76,15.8
+"Buku Anak-Anak, Buku Sejarah",75,15.59
+"Buku Anak-Anak, Buku Fiksi",74,15.38
+"Buku Anak-Anak, Novel Fiksi Ilmiah",75,15.59
+"Novel Misteri, Buku Sejarah",69,14.35
+"Novel Misteri, Buku Fiksi",86,17.88
+"Novel Misteri, Novel Fiksi Ilmiah",85,17.67
+"Buku Sejarah, Buku Fiksi",76,15.8
+"Buku Sejarah, Novel Fiksi Ilmiah",65,13.51
+"Buku Fiksi, Novel Fiksi Ilmiah",77,16.01
