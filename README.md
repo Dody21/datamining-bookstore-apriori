@@ -15,7 +15,7 @@ Tujuan
 1) Melakukan identifikasi terhadap kombinasi produk yang paling sering dibeli secara bersamaan oleh konsumen.
 2) Mengetahui kombinasi produk yang terjual berdasarkan nilai- nilai yang telah ditentukan sebelumnya, agar stok tidak menumpuk.
 
-Manfaat Penulisan
+Manfaat Penulisan:
 Untuk menghasilkan sebuah pengetahuan pada pola belanja konsumen untuk merencanakan strategi penjualan bundling produk yang efektif sehingga dapat meningkatkan performa pada toko buku.
 
 Metode: Algoritma Apriori
@@ -28,9 +28,7 @@ Objectives
 3) Menghitung nilai Support, Confidence, dan Lift Ratio sebagai dasar evaluasi.
 4) Memberikan rekomendasi strategi bundling produk berdasarkan hasil aturan asosiasi.
 
-Struktur Folder
-datamining-bookstore-apriori/
-
+Struktur Folder: 
 ├── notebooks/      # Jupyter Notebooks untuk preprocessing & perhitungan
 ├── data/           # Dataset mentah dan hasil transformasi
 ├── rapidminer/     # File project RapidMiner (.rmp & .rmhdf5table)
