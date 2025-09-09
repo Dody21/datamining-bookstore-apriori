@@ -23,7 +23,7 @@ Untuk menghasilkan sebuah pengetahuan pada pola belanja konsumen untuk merencana
 
 Metode: Algoritma Apriori
 
-Tools: Python (Jupyter Notebook) dan RapidMiner
+Tools: Jupyter Notebook (Bahasa pemrograman python) dan RapidMiner
 
 Objectives
 1) Melakukan data cleaning dan transformasi pada dataset transaksi toko buku.
