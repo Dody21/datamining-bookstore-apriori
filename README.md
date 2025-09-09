@@ -29,17 +29,17 @@ Objectives
 4) Memberikan rekomendasi strategi bundling produk berdasarkan hasil aturan asosiasi.
 
 Struktur Folder: 
-├── notebooks/      # Jupyter Notebooks untuk preprocessing & perhitungan
-├── data/           # Dataset mentah dan hasil transformasi
-├── rapidminer/     # File project RapidMiner (.rmp & .rmhdf5table)
-├── results/        # Visualisasi hasil (rules, tabel, grafik)
-└── README.md
+- notebooks/      # Jupyter Notebooks untuk preprocessing & perhitungan
+- data/           # Dataset mentah dan hasil transformasi
+- rapidminer/     # File project RapidMiner (.rmp & .rmhdf5table)
+- results/        # Visualisasi hasil (rules, tabel, grafik)
+- README.md
 
 Penjelasan Folder Results: 
-AssociationRules.png → Visualisasi aturan asosiasi, 
-Rules Summary.png → Grafik Penyajian model terbaik, 
-Table View.png → Tabel hasil perhitungan support, confidence & lift, 
-Perhitungan Lift Ratio Dataset.png → Hasil perhitungan lift ratio pada tools jupyter.
+1) AssociationRules.png → Visualisasi aturan asosiasi
+2) Rules Summary.png → Grafik Penyajian model terbaik
+3) Table View.png → Tabel hasil perhitungan support, confidence & lift
+4) Perhitungan Lift Ratio Dataset.png → Hasil perhitungan lift ratio pada tools jupyter
 
 Hasil Aturan Asosiasi
 1) {Majalah Seni, Buku Anak-Anak} → {Alat Tulis}
