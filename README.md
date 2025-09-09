@@ -30,6 +30,7 @@ Objectives
 
 Struktur Folder
 datamining-bookstore-apriori/
+
 ├── notebooks/      # Jupyter Notebooks untuk preprocessing & perhitungan
 ├── data/           # Dataset mentah dan hasil transformasi
 ├── rapidminer/     # File project RapidMiner (.rmp & .rmhdf5table)
