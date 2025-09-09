@@ -35,11 +35,11 @@ Struktur Folder:
 ├── results/        # Visualisasi hasil (rules, tabel, grafik)
 └── README.md
 
-Penjelasan Folder Results
-AssociationRules.png → Visualisasi aturan asosiasi
-Rules Summary.png → Grafik Penyajian model terbaik
-Table View.png → Tabel hasil perhitungan support, confidence & lift
-Perhitungan Lift Ratio Dataset.png → Hasil perhitungan lift ratio pada tools jupyter
+Penjelasan Folder Results: 
+AssociationRules.png → Visualisasi aturan asosiasi, 
+Rules Summary.png → Grafik Penyajian model terbaik, 
+Table View.png → Tabel hasil perhitungan support, confidence & lift, 
+Perhitungan Lift Ratio Dataset.png → Hasil perhitungan lift ratio pada tools jupyter.
 
 Hasil Aturan Asosiasi
 1) {Majalah Seni, Buku Anak-Anak} → {Alat Tulis}
