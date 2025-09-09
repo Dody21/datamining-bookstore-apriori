@@ -2,6 +2,7 @@
 Tugas Akhir
 
 PENERAPAN DATA MINING PADA PENJUALAN TOKO BUKU MENGGUNAKAN ALGORITMA APRIORI DALAM STRATEGI PENJUALAN BUNDLING PRODUK
+
 Proyek ini merupakan implementasi Tugas Akhir dengan topik penerapan algoritma Apriori pada data penjualan toko buku untuk menyusun strategi penjualan bundling produk.
 
 Latar Belakang
