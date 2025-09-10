@@ -18,13 +18,13 @@ Toko buku menyediakan beragam koleksi buku dan produk pelengkap, namun menghadap
 1) Melakukan identifikasi terhadap kombinasi produk yang paling sering dibeli secara bersamaan oleh konsumen.
 2) Mengetahui kombinasi produk yang terjual berdasarkan nilai- nilai yang telah ditentukan sebelumnya, agar stok tidak menumpuk.
 
-## Manfaat Penulisan:
+## Manfaat Penulisan
 Untuk menghasilkan sebuah pengetahuan pada pola belanja konsumen untuk merencanakan strategi penjualan bundling produk yang efektif sehingga dapat meningkatkan performa pada toko buku.
 
-## Metode: 
+## Metode
 Algoritma Apriori
 
-## Tools:
+## Tools
 Jupyter Notebook (Bahasa pemrograman python) dan RapidMiner
 
 ## Objectives
@@ -33,14 +33,14 @@ Jupyter Notebook (Bahasa pemrograman python) dan RapidMiner
 3) Menghitung nilai Support, Confidence, dan Lift Ratio sebagai dasar evaluasi.
 4) Memberikan rekomendasi strategi bundling produk berdasarkan hasil aturan asosiasi.
 
-## Struktur Folder: 
+## Struktur Folder
 - notebooks/      # Jupyter Notebooks untuk preprocessing & perhitungan
 - data/           # Dataset mentah dan hasil transformasi
 - rapidminer/     # File project RapidMiner (.rmp & .rmhdf5table)
 - results/        # Visualisasi hasil (rules, tabel, grafik)
 - README.md
 
-## Penjelasan Folder Results: 
+## Penjelasan Folder Results
 1) AssociationRules.png → Visualisasi aturan asosiasi
 2) Rules Summary.png → Grafik Penyajian model terbaik
 3) Table View.png → Tabel hasil perhitungan support, confidence & lift
